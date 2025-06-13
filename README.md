@@ -1,7 +1,4 @@
-# ELT-Pipeline-with-Airflow
-
-
-`  # ❄️ Snowflake + dbt + Airflow ELT Pipeline
+# ❄️ ELT-Pipeline-with-Airflow
 
 This project demonstrates a modern ELT (Extract, Load, Transform) pipeline using **Snowflake** for cloud data warehousing, **dbt** for transformation and modeling, and **Apache Airflow** (via [Astronomer Cosmos](https://www.astronomer.io/docs/astro/runtime-image-architecture)) for orchestration.
 
